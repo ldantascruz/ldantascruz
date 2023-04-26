@@ -35,7 +35,7 @@
 - :hammer:Tools:  `VScode`, `Android Studio`
   
   
-  ####
+  ##
   
   
   ![Snake animation](https://github.com/ldantascruz/ldantascruz/blob/output/github-contribution-grid-snake.svg)
