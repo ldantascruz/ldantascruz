@@ -32,7 +32,7 @@
 - :tada:Mobile: `Flutter`, `Dart`
 - :art:Layout Design : `Figma`
 - :card_file_box:Version Code Control : `Git e GitHub`
-- :hammer:Tools:  `VScode`, `Android Studio`
+- :hammer:Tools:  `IntelliJ IDEA`, `VScode`, `Android Studio`
   
   
   ##
